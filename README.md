@@ -1,5 +1,5 @@
 <h1 align="center">안녕하세요! 👋, 저는 박민욱 입니다.</h1>
-<h3 align="center">매일매일 꾸준하게 즐겁게 게임하듯이 개발하는게 장점입니다!</h3>
+<h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
